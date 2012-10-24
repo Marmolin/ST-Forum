@@ -5,8 +5,8 @@ ST-Forum is an RubyOnRails application supporting Doctors' specialist medical tr
 in Rails 3.2.0 and ruby 1.9.2 with database mysql2 0.3.10. The code will later be stored in this repository.
 
 
-For the time beeing only the issue list will be used to describe some of the more interesting problems I had
-when developing this  Ruby on Rails application, my solutions and to those problems or the fixes I used 
+For the time beeing only the issue list will be used to describe some of the more interesting problems I met
+when developing this Ruby on Rails application, my solutions to those problems or the fixes I used 
 as workarounds.
 
 My issue-list has the folllowing tree aims
