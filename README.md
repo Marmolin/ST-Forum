@@ -20,6 +20,8 @@ The issues will be structures in accordance with the main application gems I use
 * gem 'mysql2', '0.3.10'
 * gem 'jquery-rails'
 * gem 'formtastic'
+* gem 'client_side_validations'
+* gem 'client_side_validations-formtastic'
 * gem 'sorcery'
 * gem "cancan"
 * gem 'carrierwave'
